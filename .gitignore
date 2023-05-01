@@ -1,0 +1,5 @@
+*.pyc
+frontend/node_modules*
+backend/*.db
+backend/*venv/*
+backend/images/*
